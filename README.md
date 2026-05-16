@@ -1,5 +1,3 @@
-# AN7914-Lending-Club-Analysis
-OLS Regression Analysis of Interest Rate Determinants — University of Winchester AN7914
 # AN7914 Data Analytics and Modelling
 ## Interest Rate Determinants in the Consumer Credit Market
 
